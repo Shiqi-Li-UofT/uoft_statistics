@@ -101,4 +101,4 @@ There are three ways to interact (update, set up, or modify a repository) with t
 
 Following the standard nested structure of a directory, I have re-arranged my STA303 files and created my own GitHub repository. This repository is also planned to be used to contain future coursework projects, so that I can have a personal URL to showcase my projects and skills to potential employers. I did not include any mixed-assessment materials to avoid potential academic integrity problems.
 
-I have also supplied the README.md file in the root directory. My GitHub repository can be publicly accessed at: 
+I have also supplied the README.md file in the root directory. My GitHub repository can be publicly accessed at: https://github.com/Shiqi-Li-UofT/uoft_statistics
