@@ -1,0 +1,31 @@
+---
+title: "Professional Development Proposal"
+author: "Shiqi Li"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tasks
+
+In modern technology development environments, teamwork is an inevitable topic in both academic and professional setting. As a statistics student who consistently work with programming languages such as R and Python, it is essential to learn about the powerful tool for teamwork and version control Git. I found this to be highly relevant to my professional development so I want to take this chance to learn about this tool and set up an initial profile in Github.
+
+## Learning Git
+
+The first part of this task is learning foundamentals of Git and the open-source platform Github. Some topics may include: what is Git and why is it important; how problems does it solves; differences between Git and Github; the Github interface; how to set up repositories; what are some common Git commands, etc.
+
+This part would takes about 3 to 5 hours of effort. The output of this part would be a set of note which can be submitted for learning verification.
+
+## Setting Up Github Profile
+
+The second part is to set up my first Github profile, and set up a repository that contains some of the code exercises from STA303 (specific assignment references will not be included to comply with academic integrity requirements) to demonstrate skills. I will also set up a branch for the final project collaboration.
+
+This part would takes about 3 to 5 hours of effort. The output of this part would be a Github URL that can be accessed publicly.
+
+## Conclusion
+
+By completing this task I can obtain basic proficiency in using Git for teamwork and version control, and I will also have a personal profile to showcase skillset for future career uses.
+
